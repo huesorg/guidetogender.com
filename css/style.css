@@ -439,6 +439,7 @@ nav ul li.no-hover:hover {
 
     #splash img {
         max-width:450px;
+        display: block;
         width: 100%;
         height:auto;
         margin: 0 auto;
