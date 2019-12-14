@@ -71,7 +71,8 @@ a {
 		height: 100%;
 	}
 
-#intro, #get, #team, #about, #contact, #numbers, #aboutauthor{padding-top: 4rem;}
+#intro, #get, #team, #about, #contact, #numbers, #aboutauthor{padding-top: 4rem; background-position: calc(100% + 150px) top;
+background-repeat: no-repeat;}
 
 #about, #aboutauthor, #numbers, #get {padding-bottom:4rem;}
 
