@@ -93,7 +93,6 @@ a {
     max-height: 864px;
     padding:0;
     position: relative;
-    background-image:url(../img/g2gcutouts-1600.jpg);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -224,13 +223,11 @@ span.neucha {
         font-size:28px;
     }
     #intro {
-        background-image:url(../img/cutout-expression-386.png);
         background-position:top right;
         background-repeat:no-repeat;
     }
 
     #about {
-        background-image:url(../img/cutout-identity.png);
         background-position:top right;
         background-repeat:no-repeat;
     }
@@ -589,7 +586,9 @@ nav a.button-collapse {
 }
 .btn, .entry-content .btn {
     color:#fff;
+    text-shadow: 0px 1px 3px rgba(0,0,0,.6);
     background:#f1cb0b;
+    font-weight: 900;
 }
 
     .btn:hover, .entry-content .btn:hover {
